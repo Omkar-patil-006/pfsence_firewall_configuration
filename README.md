@@ -57,10 +57,8 @@ The purpose of using pfSense firewall in this project is:
 ---
 ## 🖥️ Server Used
 
-## 🖥️ Server Used
-
 <p align="center">
-  <img src="hardware-setup-internal-usb.jpg" width="400"/>
+  <img src="hardware-setup-internal-usb.jpg" width="600"/>
 </p>
 
 <p align="center">
