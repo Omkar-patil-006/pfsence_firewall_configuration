@@ -123,7 +123,7 @@ The purpose of using pfSense firewall in this project is:
 
 ## 🎥 Demo Video
 
-[Watch Demo Video] ((https://drive.google.com/file/d/1VOP7g5rokuSt7gaPUgtXTQkKR4_7Pns_/view?usp=drive_link))
+[Watch Demo Video] https://drive.google.com/file/d/1VOP7g5rokuSt7gaPUgtXTQkKR4_7Pns_/view?usp=drive_link
 
 ## ✅ Final Result
 
