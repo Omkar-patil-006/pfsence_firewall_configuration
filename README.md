@@ -55,6 +55,11 @@ The purpose of using pfSense firewall in this project is:
 * To learn real-world firewall configuration
 
 ---
+## 🖥️ Server Used
+
+![Lenovo System x3250 M4](hardware-setup-internal-usb.jpg)
+
+*Figure: Lenovo System x3250 M4 rack server used in this project*
 
 ## ⚠️ Problems Faced
 
