@@ -23,7 +23,7 @@ Steps:
 
 ## 🖥️ Hardware Used
 
-* Server: Lenovo System x3250 M4
+* Server: HP Prolient
 * CPU: Intel Xeon E3
 *  Installed RAM : 56GB ( 1 slot is damaged )
 * Storage: HDD/SSD
