@@ -57,14 +57,14 @@ The purpose of using pfSense firewall in this project is:
 * To learn real-world firewall configuration
 
 ---
-## 🖥️ Server Used
+## 🖥️ HP Prolient Server Used
 
 <p align="center">
   <img src="hardware-setup-internal-usb.jpg" width="600"/>
 </p>
 
 <p align="center">
-  <em>Figure: Lenovo System x3250 M4 rack server used in this project</em>
+  <em>Figure: HP Prolient server used in this project</em>
 </p>
 
 ## ⚠️ Problems Faced
