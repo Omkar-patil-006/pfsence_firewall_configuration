@@ -116,14 +116,14 @@ The purpose of using pfSense firewall in this project is:
 
 ### 5. UEFI / Legacy Boot Confusion
 
-* BIOS did not clearly show boot mode options
+* BIOS did not clearly show boot mode option
 * Difficult to switch between UEFI and Legacy
 
 ---
 
 ## 🎥 Demo Video
 
-[Watch Demo Video]((https://drive.google.com/file/d/1VOP7g5rokuSt7gaPUgtXTQkKR4_7Pns_/view?usp=drive_link))
+[Watch Demo Video] ((https://drive.google.com/file/d/1VOP7g5rokuSt7gaPUgtXTQkKR4_7Pns_/view?usp=drive_link))
 
 ## ✅ Final Result
 
