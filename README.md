@@ -25,7 +25,7 @@ Steps:
 
 * Server: Lenovo System x3250 M4
 * CPU: Intel Xeon E3
-* RAM: 4GB+
+*  Installed RAM : 56GB ( 1 slot is damaged )
 * Storage: HDD/SSD
 
 ---
@@ -41,6 +41,8 @@ Steps:
 
    * Username: admin
    * Password: pfsense
+
+ Note :  One's you loggin then change the password.
 
 ---
 
