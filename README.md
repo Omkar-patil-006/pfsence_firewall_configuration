@@ -67,7 +67,7 @@ The purpose of using pfSense firewall in this project is:
 
 ## ⚠️ Problems Faced
 
-### 1. Internal Hard Disk Not Detected
+### 1. Internal Hard Disk Not Detected (RAID Controller Issue MOst Common)
 
 * The server was not detecting the internal HDD during installation
 
